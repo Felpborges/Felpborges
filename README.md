@@ -2,7 +2,7 @@
 📊 Atualmente Analista / Cientista de Dados, criando aulas pro YouTube, Medium e outras redes. Curioso sobre matemática, estatística , programação e me aprofundando em séries temporais nas horas vagas.      
 
 - ⚽ Apaixonado por **Futebol**
-- 📸 Também falo sobre **Aálise de Dados** no YouTube do [Dados de Valor](https://www.youtube.com/@DadosdeValor)
+- 📸 Também falo sobre **Análise de Dados** no YouTube do [Dados de Valor](https://www.youtube.com/@DadosdeValor)
 - 🖥️ Atualmente mais focado em:
 
 <div display="inline">
